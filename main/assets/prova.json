@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question":"Answer A",
+      "answer1": "A) A",
+      "answer2": "B) B",
+      "answer3": "C) C",
+      "answer4": "D) D",
+      "correct": "A) A"
+    },
+    {
+      "question":"Answer B",
+      "answer1": "A) A",
+      "answer2": "B) B",
+      "answer3": "C) C",
+      "answer4": "D) D",
+      "correct": "B) B"
+    },
+    {
+      "question":"Answer C",
+      "answer1": "A) A",
+      "answer2": "B) B",
+      "answer3": "C) C",
+      "answer4": "D) D",
+      "correct": "C) C"
+    },
+    {
+      "question":"Answer D",
+      "answer1": "A) A",
+      "answer2": "B) B",
+      "answer3": "C) C",
+      "answer4": "D) D",
+      "correct": "D) D"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question":"Qual è il range di età per definire una persona 'GIOVANE'?",
+      "answer1": "A. 18-30",
+      "answer2": "B. 20-50",
+      "answer3": "C. 18-70",
+      "answer4": "D. 16-35",
+      "correct": "C. 18-70"
+    },
+    {
+      "question":"Cosa aspetti con ansia alla fine dell'anno?",
+      "answer1": "A. Il countdown",
+      "answer2": "B. Oroscopo di Paolo Fox",
+      "answer3": "C. Piatto di lenticchie",
+      "answer4": "D. Il brindisi",
+      "correct": "B. Oroscopo di Paolo Fox"
+    },
+    {
+      "question":"Qual è il tuo sogno nel cassetto?",
+      "answer1": "A. Viaggiare per il mondo",
+      "answer2": "B. Diventare miliardaria",
+      "answer3": "C. Mangiare senza ingrassare",
+      "answer4": "D. Lavorare nell'amministrativo",
+      "correct": "D. Lavorare nell'amministrativo"
+    },
+    {
+      "question":"Qual è la tua paura piu' grande?",
+      "answer1": "A. Diventare sovrappeso",
+      "answer2": "B. Gli insetti",
+      "answer3": "C. Il buio",
+      "answer4": "D. Le altezze",
+      "correct": "A. Diventare sovrappeso"
+    },
+	{
+      "question":"Dove ti piacerebbe andare in vacanza?",
+      "answer1": "A. Islanda",
+      "answer2": "B. Stati Uniti",
+      "answer3": "C. Giappone",
+      "answer4": "D. Corsica",
+      "correct": "D. Corsica"
+    },
+	{
+      "question":"Qual è stato il momento piu' bello della tua vita?",
+      "answer1": "A. Vincere il concorso",
+      "answer2": "B. La nascita dei tuoi figli",
+      "answer3": "C. L'acquisto della campagna",
+      "answer4": "D. La laurea di Gina",
+      "correct": "B. La nascita dei tuoi figli"
+    },
+	{
+      "question":"Quale piatto, tra questi, preferisci?",
+      "answer1": "A. Semolino",
+      "answer2": "B. Pizza",
+      "answer3": "C. Sushi",
+      "answer4": "D. Pasta zucchine e pancetta",
+      "correct": "A. Semolino"
+    },
+	{
+      "question":"Quante lavatrici fai a settimana?",
+      "answer1": "A. Una",
+      "answer2": "B. Quattro",
+      "answer3": "C. Più di sette",
+      "answer4": "D. Al bisogno",
+      "correct": "C. Più di sette"
+    },
+	{
+      "question":"Quante calamite di città ci sono sul frigo?",
+      "answer1": "A. 42",
+      "answer2": "B. 39",
+      "answer3": "C. 46",
+      "answer4": "D. 54",
+      "correct": "C. 46"
+    },
+	{
+      "question":"Qual è la cosa che meglio ti riesce?",
+      "answer1": "A. Ballare",
+      "answer2": "B. Lavoretti fatti a mano",
+      "answer3": "C. Pulire",
+      "answer4": "D. Fare la mamma",
+      "correct": "D. Fare la mamma"
+    },
+		{
+      "question":"Quale tra questi Super Hero ti rappresenta meglio?",
+      "answer1": "A. LadyDance",
+      "answer2": "B. Accumulatrix",
+      "answer3": "C. CleanGirl",
+      "answer4": "D. SuperMom",
+      "correct": "D. SuperMom"
+    }
+  ]
+}

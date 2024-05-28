@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@drawable/background_stars_1">
+
+    <ImageView
+        android:id="@+id/auguri_vecchietta"
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:src="@drawable/auguri_vecchietta"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+<!--
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/baseline_favorite_border_24"
+        android:layout_below="@+id/auguri_vecchietta"
+        android:layout_centerHorizontal="true"/>
+        -->
+
+    <ImageView
+        android:id="@+id/sfida"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/auguri_vecchietta"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/sfida"/>
+
+    <ImageView
+        android:id="@+id/accedi_ora"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:background="@drawable/accedi_ora"
+        android:layout_below="@+id/sfida"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/accedi_ora"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:hint="Inserisci la password"
+        android:autofillHints="password"
+        android:fontFamily=""
+        android:gravity="center"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:background="@drawable/rectangle"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password"
+        android:text="START"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="40dp"
+        android:backgroundTint="#FF0099"
+        android:background="@drawable/neon"/>
+        <!--app:strokeColor="@color/black"
+        app:strokeWidth="1dp"/>-->
+
+   <!-- <ImageView
+        android:id="@+id/stars"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:background="@drawable/stars"
+        android:layout_below="@+id/start"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:id="@+id/fifthy"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:background="@drawable/fifthy"
+        android:layout_below="@+id/stars"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"/>
+        -->
+
+</RelativeLayout>
